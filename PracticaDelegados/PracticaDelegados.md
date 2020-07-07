@@ -1,0 +1,1 @@
+Para esta práctica había que usar los delegados para manejar la colisión entre el jugador y los demás objetos de la escena, con un script en cada objeto creaba el delegado y en el objeto vacío que maneja los eventos me suscribía a los delegados y realizaba los calculos necesarios para lo que se pedía en la práctica.
